@@ -4,3 +4,5 @@ def two():
     print("two")
 def three():
     print("three")
+def three():
+    print("three")

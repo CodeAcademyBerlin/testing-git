@@ -3,3 +3,6 @@ console.log("asdasd");
 function name(params) {
   //asdasd
 }
+function name(params) {
+  //asdasd
+}
